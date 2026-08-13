@@ -5,6 +5,11 @@
     <link>https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0</link>
     <language>zh-cn</language>
     <description>把公众号情感文章读给你听, 每晚一个关于爱情与成长的故事</description>
+    <itunes:summary>《情感夜读》——把公众号里那些关于爱情与成长的真心话，读给你听。
+
+每一晚，我们拆解一段感情里的困惑：为什么他不联系你？回避型到底在想什么？爱和喜欢有什么区别？不讲道理，不灌鸡汤，只说人心与细节。
+
+愿你在睡前，把心事放一放，让声音陪你入眠。订阅我，每晚一篇，不见不散。</itunes:summary>
     <itunes:author>夜读主播</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
@@ -14,13 +19,13 @@
       <title>情感夜读</title>
       <link>https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0</link>
     </image>
-    <pubDate>Thu, 13 Aug 2026 04:36:48 +0000</pubDate>
-    <lastBuildDate>Thu, 13 Aug 2026 04:36:48 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 05:29:12 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 05:29:12 +0000</lastBuildDate>
     <item>
       <title>回避型最怕的，不是分手，而是这件事</title>
       <link>https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0/ep1.mp3</link>
       <guid isPermaLink="false">ep1.mp3</guid>
-      <pubDate>Sat, 01 Aug 2026 04:36:48 +0000</pubDate>
+      <pubDate>Sat, 01 Aug 2026 05:29:12 +0000</pubDate>
       <description>回避型最怕的，不是分手，而是这件事</description>
       <enclosure url="https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0/ep1.mp3" type="audio/mpeg" length="557414"/>
     </item>
@@ -28,7 +33,7 @@
       <title>焦虑型×回避型：最拧巴的爱情，其实最好磨合</title>
       <link>https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0/ep2.mp3</link>
       <guid isPermaLink="false">ep2.mp3</guid>
-      <pubDate>Sun, 02 Aug 2026 04:36:48 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 05:29:12 +0000</pubDate>
       <description>焦虑型×回避型：最拧巴的爱情，其实最好磨合</description>
       <enclosure url="https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0/ep2.mp3" type="audio/mpeg" length="969100"/>
     </item>
@@ -36,7 +41,7 @@
       <title>男人不联系你，却一直看你朋友圈，真相只有3个</title>
       <link>https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0/ep3.mp3</link>
       <guid isPermaLink="false">ep3.mp3</guid>
-      <pubDate>Mon, 03 Aug 2026 04:36:48 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 05:29:12 +0000</pubDate>
       <description>男人不联系你，却一直看你朋友圈，真相只有3个</description>
       <enclosure url="https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0/ep3.mp3" type="audio/mpeg" length="1154472"/>
     </item>
@@ -44,7 +49,7 @@
       <title>男人为什么不删你，也不联系你？</title>
       <link>https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0/ep4.mp3</link>
       <guid isPermaLink="false">ep4.mp3</guid>
-      <pubDate>Tue, 04 Aug 2026 04:36:48 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 05:29:12 +0000</pubDate>
       <description>男人为什么不删你，也不联系你？</description>
       <enclosure url="https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0/ep4.mp3" type="audio/mpeg" length="1248867"/>
     </item>
@@ -52,7 +57,7 @@
       <title>男人偷偷关注你的5个地方，你可能不知道</title>
       <link>https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0/ep5.mp3</link>
       <guid isPermaLink="false">ep5.mp3</guid>
-      <pubDate>Wed, 05 Aug 2026 04:36:48 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 05:29:12 +0000</pubDate>
       <description>男人偷偷关注你的5个地方，你可能不知道</description>
       <enclosure url="https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0/ep5.mp3" type="audio/mpeg" length="1170030"/>
     </item>
@@ -60,7 +65,7 @@
       <title>男人失去一个深爱自己的女人后，会后悔吗？</title>
       <link>https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0/ep6.mp3</link>
       <guid isPermaLink="false">ep6.mp3</guid>
-      <pubDate>Thu, 06 Aug 2026 04:36:48 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2026 05:29:12 +0000</pubDate>
       <description>男人失去一个深爱自己的女人后，会后悔吗？</description>
       <enclosure url="https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0/ep6.mp3" type="audio/mpeg" length="1100990"/>
     </item>
@@ -68,7 +73,7 @@
       <title>男人朋友圈突然频繁更新，可能是在释放一个信号</title>
       <link>https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0/ep7.mp3</link>
       <guid isPermaLink="false">ep7.mp3</guid>
-      <pubDate>Fri, 07 Aug 2026 04:36:48 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 05:29:12 +0000</pubDate>
       <description>男人朋友圈突然频繁更新，可能是在释放一个信号</description>
       <enclosure url="https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0/ep7.mp3" type="audio/mpeg" length="1494942"/>
     </item>
@@ -76,7 +81,7 @@
       <title>男人爱你和喜欢你，其实区别很大</title>
       <link>https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0/ep8.mp3</link>
       <guid isPermaLink="false">ep8.mp3</guid>
-      <pubDate>Sat, 08 Aug 2026 04:36:48 +0000</pubDate>
+      <pubDate>Sat, 08 Aug 2026 05:29:12 +0000</pubDate>
       <description>男人爱你和喜欢你，其实区别很大</description>
       <enclosure url="https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0/ep8.mp3" type="audio/mpeg" length="1329155"/>
     </item>
@@ -84,7 +89,7 @@
       <title>男人真正放不下一个人的表现，装不出来</title>
       <link>https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0/ep9.mp3</link>
       <guid isPermaLink="false">ep9.mp3</guid>
-      <pubDate>Sun, 09 Aug 2026 04:36:48 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 05:29:12 +0000</pubDate>
       <description>男人真正放不下一个人的表现，装不出来</description>
       <enclosure url="https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0/ep9.mp3" type="audio/mpeg" length="1002534"/>
     </item>
@@ -92,7 +97,7 @@
       <title>男人越绝情，越说明什么？</title>
       <link>https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0/ep10.mp3</link>
       <guid isPermaLink="false">ep10.mp3</guid>
-      <pubDate>Mon, 10 Aug 2026 04:36:48 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 05:29:12 +0000</pubDate>
       <description>男人越绝情，越说明什么？</description>
       <enclosure url="https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0/ep10.mp3" type="audio/mpeg" length="1311128"/>
     </item>
@@ -100,7 +105,7 @@
       <title>男人隐藏爱意的方式，比表白更明显</title>
       <link>https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0/ep11.mp3</link>
       <guid isPermaLink="false">ep11.mp3</guid>
-      <pubDate>Tue, 11 Aug 2026 04:36:48 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 05:29:12 +0000</pubDate>
       <description>男人隐藏爱意的方式，比表白更明显</description>
       <enclosure url="https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0/ep11.mp3" type="audio/mpeg" length="1136582"/>
     </item>
@@ -108,7 +113,7 @@
       <title>真正爱你的男人，不会这样对你</title>
       <link>https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0/ep12.mp3</link>
       <guid isPermaLink="false">ep12.mp3</guid>
-      <pubDate>Wed, 12 Aug 2026 04:36:48 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 05:29:12 +0000</pubDate>
       <description>真正爱你的男人，不会这样对你</description>
       <enclosure url="https://github.com/ylcdwyyx/qinggan-podcast/releases/download/v1.0/ep12.mp3" type="audio/mpeg" length="1111927"/>
     </item>
